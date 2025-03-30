@@ -10,8 +10,9 @@ This snap uses the Hyperliquid Names REST API endpoint for resolution: https://h
 The `snap.manifest.json` restricts this snap to only run on HyperEVM (chainId: 999) and the `.hl` TLD.
 
 ## Development
-`yarn install & yarn build`
 See https://docs.metamask.io/snaps/ for more more details.
+
+`yarn install & yarn build`
 
 Fix the manifest with `yarn mm-snap manifest --fix`
 
