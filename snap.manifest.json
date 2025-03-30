@@ -1,0 +1,31 @@
+{
+  "version": "0.1.0",
+  "description": "Resolve your .hl name on HyperEVM",
+  "proposedName": "Hyperliquid Names",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HLnames/hln-resolver-snap.git"
+  },
+  "source": {
+    "shasum": "fkOnnHxofRxu915ZSiAEPzMF6qsgud6EAMRfwzC3Z24=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "hln-resolver-snap",
+        "iconPath": "images/logo.svg",
+        "registry": "https://registry.npmjs.org/"
+      }
+    }
+  },
+  "initialPermissions": {
+    "endowment:network-access": {},
+    "endowment:name-lookup": {
+      "chains": ["eip155:999"],
+      "matchers": {
+        "tlds": ["hl"]
+      }
+    }
+  },
+  "platformVersion": "6.18.0",
+  "manifestVersion": "0.1"
+}
