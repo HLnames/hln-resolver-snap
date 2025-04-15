@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Resolve your .hl name on HyperEVM",
   "proposedName": "Hyperliquid Names",
   "repository": {
@@ -7,7 +7,7 @@
     "url": "git+https://github.com/HLnames/hln-resolver-snap.git"
   },
   "source": {
-    "shasum": "wbWTbxgKotRu2HXuDfiW1GLI7bLZ3iRp/BXsHUEg5g0=",
+    "shasum": "RdVXsX3k5lvgV7xNdrxKCwN1pX76CPNXcpp0vaXwwds=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
