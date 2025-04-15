@@ -7,7 +7,7 @@
     "url": "git+https://github.com/HLnames/hln-resolver-snap.git"
   },
   "source": {
-    "shasum": "Lfe24gEvFifRzyBCC9d+ja64ZrKOZ6FtgyALCqf2q4M=",
+    "shasum": "wbWTbxgKotRu2HXuDfiW1GLI7bLZ3iRp/BXsHUEg5g0=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
@@ -26,6 +26,6 @@
       }
     }
   },
-  "platformVersion": "6.18.0",
+  "platformVersion": "6.16.0",
   "manifestVersion": "0.1"
 }
